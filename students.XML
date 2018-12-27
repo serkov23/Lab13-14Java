@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Students>
+    <Student>
+        <bookNumber>123</bookNumber>
+        <name>Sid</name>
+        <semester num="1">
+            <exam>
+                <subject>GA</subject>
+                <mark>5</mark>
+            </exam>
+            <exam>
+                <subject>MA</subject>
+                <mark>3</mark>
+            </exam>
+        </semester>
+        <semester num="2">
+            <exam>
+                <subject>GA</subject>
+                <mark>3</mark>
+            </exam>
+            <exam>
+                <subject>MA</subject>
+                <mark>6</mark>
+            </exam>
+            <exam>
+                <subject>Programming</subject>
+                <mark>10</mark>
+            </exam>
+        </semester>
+    </Student>
+    <Student>
+        <bookNumber>312</bookNumber>
+        <name>Meier</name>
+        <semester num="1">
+            <exam>
+                <subject>GA</subject>
+                <mark>10</mark>
+            </exam>
+            <exam>
+                <subject>MA</subject>
+                <mark>3</mark>
+            </exam>
+        </semester>
+        <semester num="2">
+            <exam>
+                <subject>GA</subject>
+                <mark>10</mark>
+            </exam>
+            <exam>
+                <subject>MA</subject>
+                <mark>10</mark>
+            </exam>
+            <exam>
+                <subject>Programming</subject>
+                <mark>0</mark>
+            </exam>
+        </semester>
+    </Student>
+</Students>
+
+
